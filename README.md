@@ -1,0 +1,1 @@
+# Copy-text-using-jquery-javascript
